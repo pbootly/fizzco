@@ -1,0 +1,4 @@
+baseURL = 'http://pbootly.github.io/'
+languageCode = 'en-GB'
+title = 'Fizz Co.'
+theme = 'hugo-theme-monochrome'
