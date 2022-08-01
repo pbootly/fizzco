@@ -1,4 +1,4 @@
-baseURL = 'http://pbootly.github.io/'
+baseURL = 'http://pbootly.github.io/fizzco'
 languageCode = 'en-GB'
 title = 'Fizz Co.'
 theme = 'hugo-theme-monochrome'
