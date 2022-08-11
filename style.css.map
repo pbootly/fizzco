@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/home/matthewt/workspace/fizzco",
+	"sourceRoot": "/home/pbootly/workspace/fizzco",
 	"sources": [
 		"themes/hugo-theme-monochrome/assets/scss/core.scss",
 		"themes/hugo-theme-monochrome/assets/scss/purecss/_base.scss",
