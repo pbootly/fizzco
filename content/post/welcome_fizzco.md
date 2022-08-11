@@ -83,7 +83,7 @@ As if Kyle was awaiting my question I get an immediate reply:
 Okay, this is fine I tell myself. The code must be fairly straightforward and maybe Keith didn't think to set things up with
 some defined structure. I crack open my IDE and to my amazement main.go is incredibly small:
 
-```
+```go
 package main
 
 import (
