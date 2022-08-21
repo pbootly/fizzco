@@ -8,6 +8,17 @@
     <language>en-GB</language>
     <lastBuildDate>Wed, 10 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://blog.polybit.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>FizzCo: Simple Go Profiling</title>
+      <link>http://blog.polybit.io/post/fizzco_simple_profiling/</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.polybit.io/post/fizzco_simple_profiling/</guid>
+      <description>Go Profiling - Using built in testing packages So looking at the application on the face of it there doesn&amp;rsquo;t appear to be a whole lot to it, which at least from my perspective makes it pretty difficult to get into the meat of performance issues.
+It&amp;rsquo;s apparent that the real gains are going to be from the for loop:
+for i := 0; i &amp;lt;= argVal; i++ { if (i%5 == 0) &amp;amp;&amp;amp; (i%3 == 0) { fmt.</description>
+    </item>
+    
+    <item>
       <title>Welcome to Fizz Co!</title>
       <link>http://blog.polybit.io/post/welcome_fizzco/</link>
       <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
